@@ -35,11 +35,11 @@ Trained the model and predicted on the test set
 5. Model Evaluation
 Evaluated using metrics:
 
-Mean Absolute Error (MAE)
+Mean Absolute Error (MAE): 0.35621511042416515
 
-Root Mean Squared Error (RMSE)
+Root Mean Squared Error (RMSE): 0.6862171276623317
 
-R² Score (Coefficient of Determination)
+R² Score (Coefficient of Determination): 0.5291060537028591
 
 6. Visualization
 Compared actual vs predicted Rent using scatter plots
